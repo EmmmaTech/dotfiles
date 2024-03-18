@@ -1,0 +1,8 @@
+Cursor_BibataIce|$HOME/.icons
+Font_CascadiaCove|$HOME/.local/share/fonts
+Font_MaterialDesign|$HOME/.local/share/fonts
+Font_JetBrainsMono|$HOME/.local/share/fonts
+Font_MapleNerd|$HOME/.local/share/fonts
+Font_MononokiNerd|$HOME/.local/share/fonts
+Gtk_DecayGreen|$HOME/.themes
+Icon_TelaGreen|$HOME/.icons

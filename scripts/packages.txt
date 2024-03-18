@@ -1,0 +1,54 @@
+# Audio
+pipewire
+pipewire-alsa
+pipewire-audio
+pipewire-jack
+pipewire-pulse
+gst-plugin-pipewire
+wireplumber
+pavucontrol
+pamixer
+
+# Network/Bluetooth
+networkmanager
+network-manager-applet
+bluez
+bluez-utils
+blueman
+
+# Brightness
+brightnessctl
+
+# Display Manager
+qt5-quickcontrols
+qt5-quickcontrols2
+qt5-graphicaleffects
+
+# Screenshots
+grimblast-git
+slurp
+swappy
+
+# Utilities
+polkit-kde-agent
+xdg-desktop-portal-hyprland
+parallel
+jq
+imagemagick
+qt5-imageformats
+ffmpegthumbs
+kde-cli-tools
+
+# Themes
+nwg-look
+qt5ct
+qt6ct
+kvantum
+qt5-wayland
+qt6-wayland
+
+# Shell
+zsh
+oh-my-zsh-git
+zsh-theme-powerlevel10k
+neofetch

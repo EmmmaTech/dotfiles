@@ -1,0 +1,23 @@
+* {
+    font-family: Ubuntu, sans-serif;
+}
+
+#window, #input {
+    background-color: #151720; /*#13141b*/
+    border-radius: 20px;
+    opacity: 0.80;
+}
+
+#entry {
+    border-radius: 20px;
+    padding-left: 20px;
+}
+
+#entry:selected {
+    border-radius: 20px;
+    background-color: #90ceaa; /*#362279*/
+}
+
+#img {
+    margin-right: 6px;
+}

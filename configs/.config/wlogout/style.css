@@ -1,0 +1,82 @@
+* {
+    background-image: none;
+    font-family: Ubuntu, sans-serif;
+}
+
+window {
+    background-color: rgba(31, 35, 40, 0.95);
+}
+
+button {
+    color: #93cee9;
+    background-color: #101419;
+    border-style: solid;
+    border-width: 6px;
+    background-repeat: no-repeat;
+    opacity: 0.80;
+    background-position: center;
+    background-size: 25%;
+    margin: 15px;
+    padding: 25px;
+    font-size: 0;
+    transition: ease-in-out 0.2s;
+}
+
+button:hover,
+button:focus {
+    background-color: #90ceaa;
+}
+
+#lock {
+    background-image: url("./icons/lock.svg");
+}
+
+#lock:hover,
+#lock:focus {
+    background-image: url("./icons/lock_focus.svg");
+}
+
+#logout {
+    background-image: url("./icons/logout.svg");
+}
+
+#logout:hover,
+#logout:focus {
+    background-image: url("./icons/logout_focus.svg");
+}
+
+#suspend {
+    background-image: url("./icons/sleep.svg");
+}
+
+#suspend:hover,
+#suspend:focus {
+    background-image: url("./icons/sleep_focus.svg");
+}
+
+#hibernate {
+    background-image: url("./icons/pause.svg");
+}
+
+#hibernate:hover,
+#hibernate:focus {
+    background-image: url("./icons/pause_focus.svg");
+}
+
+#shutdown {
+    background-image: url("./icons/power-off.svg");
+}
+
+#shutdown:hover,
+#shutdown:focus {
+    background-image: url("./icons/power-off_focus.svg");
+}
+
+#reboot {
+    background-image: url("./icons/reboot.svg");
+}
+
+#reboot:hover,
+#reboot:focus {
+    background-image: url("./icons/reboot_focus.svg");
+}

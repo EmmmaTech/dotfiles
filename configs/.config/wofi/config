@@ -1,0 +1,5 @@
+allow_images = true
+insensitive = true
+prompt = search
+show=drun
+normal_window = true
